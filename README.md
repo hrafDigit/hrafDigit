@@ -10,14 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-– Nomenclature des repo   
-"code-learning-<level>-<languageName>-<Project_Name>"   
-"case-studies-<Project_Name>"   
-"code-test-for-position-or-job-<Project_Name>"   
---- Examples ---   
-input : code-learning-basics-JavaScript-My_Super_Project
-output : clb-JS-My_Super_Project   
-input : code-learning-basics-JavaScript-My_Great_Project   
-output : cas-stu-My_Great_Project   
-input : code-learning-basics-JavaScript-My_Awesome_Project   
-output : cas-tes-My_Awesome_Project   
+## Covention de nommage des repo   
+• Code learning repo-s : "|purpose|-|level|-|languageName|-|Project_Name|"   
+ex. : code-learning-basics-JavaScript-My_Super_Project = clb-JS-My_Super_Project   
+• Case studies repo-s : "|Project_Name|"   
+ex. "case-studies-Great_Project" = cas-stu-Great_Project   
+• Coding-tests for a position or a job repo-s : |Some_Test_Project|    
+ex. cod-tes-Some_Test_Project   
